@@ -1,0 +1,11 @@
+H:\demo\OurVillage\src\UserServer\UserServer.Models\bin\Debug\net6.0\UserServer.Models.deps.json
+H:\demo\OurVillage\src\UserServer\UserServer.Models\bin\Debug\net6.0\UserServer.Models.dll
+H:\demo\OurVillage\src\UserServer\UserServer.Models\bin\Debug\net6.0\ref\UserServer.Models.dll
+H:\demo\OurVillage\src\UserServer\UserServer.Models\bin\Debug\net6.0\UserServer.Models.pdb
+H:\demo\OurVillage\src\UserServer\UserServer.Models\obj\Debug\net6.0\UserServer.Models.GeneratedMSBuildEditorConfig.editorconfig
+H:\demo\OurVillage\src\UserServer\UserServer.Models\obj\Debug\net6.0\UserServer.Models.AssemblyInfoInputs.cache
+H:\demo\OurVillage\src\UserServer\UserServer.Models\obj\Debug\net6.0\UserServer.Models.AssemblyInfo.cs
+H:\demo\OurVillage\src\UserServer\UserServer.Models\obj\Debug\net6.0\UserServer.Models.csproj.CoreCompileInputs.cache
+H:\demo\OurVillage\src\UserServer\UserServer.Models\obj\Debug\net6.0\UserServer.Models.dll
+H:\demo\OurVillage\src\UserServer\UserServer.Models\obj\Debug\net6.0\ref\UserServer.Models.dll
+H:\demo\OurVillage\src\UserServer\UserServer.Models\obj\Debug\net6.0\UserServer.Models.pdb

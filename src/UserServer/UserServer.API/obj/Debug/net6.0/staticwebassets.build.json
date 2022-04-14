@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "gv6qsnvU8RxeHHrk8zWImU5GKCmCJliYkEZL11HcpZ0=",
+  "Source": "UserServer.API",
+  "BasePath": "_content/UserServer.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
